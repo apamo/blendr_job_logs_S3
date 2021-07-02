@@ -1,0 +1,12 @@
+error_message,endpoint_name,endpoint_datasource,request_url,request_method,response_status,external_error,jobid
+"Error calling endpoint ""Qlik Cloud Services - Publish App To Space""","Publish App To Space","Qlik Cloud Services",https://oemiberia.eu.qlikcloud.com/api/v1/apps/9992c821-07f4-4964-9d88-95df6ac7c7d1/publish,POST,404,1,9b21c200-befb-11eb-926c-47700af4d396
+"Error calling endpoint ""Qlik Cloud Services - Start Reload""","Start Reload","Qlik Cloud Services",https://oemiberia.eu.qlikcloud.com/api/v1/reloads,POST,403,1,9605a4b0-befa-11eb-a558-830457e7a9b2
+"Error calling endpoint ""Qlik Cloud Services - Publish App To Space""","Publish App To Space","Qlik Cloud Services",https://oemiberia.eu.qlikcloud.com/api/v1/apps/91e42f22-4fae-4805-bdb5-46a796713d07/publish,POST,404,1,ae137890-bef5-11eb-b313-db97d9472df9
+"Error calling endpoint ""Qlik Cloud Services - Copy App""","Copy App","Qlik Cloud Services",https://oemiberia.eu.qlikcloud.com/api/v1/apps/c996ae94-ba84-4775-9fab-13f1355b2ccb/copy,POST,404,1,58b9a900-bef1-11eb-add5-bf822c4f977d
+"Error calling endpoint ""Qlik Cloud Services - Create Space""","Create Space","Qlik Cloud Services",https://oemiberia.eu.qlikcloud.com/api/v1/spaces,POST,409,1,33603f50-bef1-11eb-b4b8-afa8d13dd048
+"Error calling endpoint ""Qlik Cloud Services - Copy App""","Copy App","Qlik Cloud Services",https://oemiberia.eu.qlikcloud.com/api/v1/apps/c996ae94-ba84-4775-9fab-13f1355b2ccb/copy,POST,404,1,f6a6e690-bef0-11eb-ac96-374d955f2af0
+"Error calling endpoint ""Qlik Cloud Services - Copy App""","Copy App","Qlik Cloud Services",https://oemiberia.eu.qlikcloud.com/api/v1/apps/c996ae94-ba84-4775-9fab-13f1355b2ccb/copy,POST,404,1,25b0c670-bef0-11eb-9bbf-7b8aa2df6e9f
+"Error calling endpoint ""Qlik Cloud Services - Create Space""","Create Space","Qlik Cloud Services",,,,1,740454B5-BFE8-4C23-B8B7-58FBD7F0829F
+"Error calling endpoint ""Qlik Cloud Services - Create Space""","Create Space","Qlik Cloud Services",,,,1,31DB3DAA-C25D-4075-AB19-66FFF166E0D3
+"Error calling endpoint ""Qlik Cloud Services - Copy App""","Copy App","Qlik Cloud Services",https://oemiberia.eu.qlikcloud.com/api/v1/apps/c996ae94-ba84-4775-9fab-13f1355b2ccb/copy,POST,404,1,9846CDED-F5A2-4681-BCB2-266A6C50481E
+"Error calling endpoint ""SaaS Admin - Get Account""","Get Account","SaaS Admin",,,,1,de3f7430-becc-11eb-8645-fd8cf9a3e5b2

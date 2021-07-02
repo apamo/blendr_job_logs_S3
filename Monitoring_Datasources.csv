@@ -1,0 +1,24 @@
+guid,name,created_by_source,connector.guid,connector.name,is_used,is_connected,created_at,updated_at,accountid
+445e73e0-7132-11eb-acbd-63e53969c46d,"Google Bigquery - Alvaro Palacios",web_ui,0d872152-27c0-11ea-921c-022e6b5ea1e2,"Google Bigquery",,1,2021-02-17T15:10:27.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+6f7a9460-7136-11eb-acf3-a1ea7109dbf6,"Qlik Cloud Services - Alvaro Palacios",web_ui,61a87510-c7a3-11ea-95da-0fb0c241e75c,"Qlik Cloud Services",1,1,2021-02-17T15:40:17.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+8026cc40-7136-11eb-9aee-d5ab93b86f7a,"Microsoft Teams - alp@qlik.com",web_ui,0d87af8f-27c0-11ea-921c-022e6b5ea1e2,"Microsoft Teams",,1,2021-02-17T15:40:46.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+853f01f0-7136-11eb-af45-0d9da48258e7,"Microsoft OneDrive - alp@qlik.com",web_ui,0ac12400-2e3d-11ea-9f36-f343de4a8df7,"Microsoft OneDrive",,1,2021-02-17T15:40:54.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+3e4084b0-7137-11eb-a636-db78a7fb9042,"Dropbox - Alvaro Palacios",web_ui,0d87cc40-27c0-11ea-921c-022e6b5ea1e2,Dropbox,,1,2021-02-17T15:46:04.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+ad664d50-7137-11eb-ae28-0fd7d1c7a440,Strava,web_ui,0d870a9c-27c0-11ea-921c-022e6b5ea1e2,Strava,,1,2021-02-17T15:49:11.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+c85084c0-713a-11eb-b35a-5be605372b40,"Demo CRM",web_ui,0d86f69c-27c0-11ea-921c-022e6b5ea1e2,"Demo CRM",,1,2021-02-17T16:11:24.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+114bb5e0-831f-11eb-ae44-2538107165fa,"Google Sheets - Alvaro Palacios",web_ui,0d86f238-27c0-11ea-921c-022e6b5ea1e2,"Google Sheets",,1,2021-03-12T10:38:22.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+f45af090-8336-11eb-aadb-a714c50b118b,CDP,web_ui,0d876c4b-27c0-11ea-921c-022e6b5ea1e2,CDP,,1,2021-03-12T13:29:21.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+880c3500-833e-11eb-8c27-a9e66c82f651,PayPal,web_ui,0d878188-27c0-11ea-921c-022e6b5ea1e2,PayPal,,1,2021-03-12T14:23:35.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+45959df0-85ab-11eb-a373-8b52858b7f77,Email,web_ui,0d871a0e-27c0-11ea-921c-022e6b5ea1e2,Email,,1,2021-03-15T16:27:01.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+bf95f9a0-8893-11eb-ad7f-47a9356fc3b0,Shopify,web_ui,0d86dffc-27c0-11ea-921c-022e6b5ea1e2,Shopify,,1,2021-03-19T09:16:12.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+eead7820-8895-11eb-8a0b-0fb3db599503,"Bamboo HR",web_ui,0d8764fe-27c0-11ea-921c-022e6b5ea1e2,"Bamboo HR",1,1,2021-03-19T09:31:50.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+8f2a9d00-88bc-11eb-83ac-2d66ae876cb4,"SaaS admin",web_ui,0d878726-27c0-11ea-921c-022e6b5ea1e2,"SaaS admin",,1,2021-03-19T14:08:20.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+6beb73d0-88bf-11eb-97fe-d7bae464f290,Datadog,web_ui,0d879afa-27c0-11ea-921c-022e6b5ea1e2,Datadog,,1,2021-03-19T14:28:49.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+c1086d70-88cb-11eb-b9c8-399741007806,"Microsoft Office 365",web_ui,0d876128-27c0-11ea-921c-022e6b5ea1e2,"Microsoft Office 365",,,2021-03-19T15:57:06.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+e0776230-88cb-11eb-ae4f-534983098a3b,"Microsoft Office 365 (Application Permissions)",web_ui,0d87b621-27c0-11ea-921c-022e6b5ea1e2,"Microsoft Office 365 (Application Permissions)",,,2021-03-19T15:57:59.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+60a10180-8e26-11eb-9962-b786199cf87e,Talmundo,web_ui,23dce860-8d58-11eb-9490-814a2eae4c30,Talmundo,1,1,2021-03-26T11:28:24.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+d875ddb0-9070-11eb-b7f8-49be71420910,"Google Drive",web_ui,0d86fb5d-27c0-11ea-921c-022e6b5ea1e2,"Google Drive",,,2021-03-29T09:26:30.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+c4574490-9083-11eb-8792-8574a8100896,AFAS,web_ui,0d8770fe-27c0-11ea-921c-022e6b5ea1e2,AFAS,,1,2021-03-29T11:41:57.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+d23caec0-af0b-11eb-a9e2-41cbfc34c660,"Amazon S3",web_ui,0d86fa67-27c0-11ea-921c-022e6b5ea1e2,"Amazon S3",1,1,2021-05-07T08:11:27.000000Z,,cf255040-61a3-11eb-a423-fffb4aaf2529
+6a850530-8703-11eb-9a60-2d52a47052c3,Strava,web_ui,0d870a9c-27c0-11ea-921c-022e6b5ea1e2,Strava,1,1,2021-03-17T09:30:30.000000Z,,4c71e370-7139-11eb-8692-9fa726c68f89
+8dcf34d0-8897-11eb-a232-2d4ddafdf0ae,"Bamboo HR",web_ui,0d8764fe-27c0-11ea-921c-022e6b5ea1e2,"Bamboo HR",1,1,2021-03-19T09:43:26.000000Z,,37e4fa00-8897-11eb-a7d9-7521b1817b18
